@@ -1,0 +1,9 @@
+version: '2'
+services:
+  elasticsearch:
+    build: .
+    image: marcoamador/saa-es
+    ports:
+      - "9200:9200"
+      - "9300:9300"
+      #command: elasticsearch -Des.logger.level=DEBUG
