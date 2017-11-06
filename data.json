@@ -3,6 +3,6 @@
 {"index":{}}
 {"keyPhrases":["k1", "k2", "k5"],"body":"another sample body","title":"another sample body","sentiment":"p"}
 {"index":{}}
-{"keyPhrases":["k1", "k6", "k5"],"body":"yet another sample body","title":"yet another sample body","yet another sentiment":"p"}
+{"keyPhrases":["k1", "k6", "k5"],"body":"yet another sample body","title":"yet another sample body","sentiment":"p"}
 {"index":{}}
-{"keyPhrases":["k1", "k2", "k5", "k7"],"body":"yet even another sample body","title":"yet even another sample body","yet even another sentiment":"p"}
+{"keyPhrases":["k1", "k2", "k5", "k7"],"body":"yet even another sample body","title":"yet even another sample body","sentiment":"p"}
