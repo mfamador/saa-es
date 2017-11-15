@@ -2,9 +2,7 @@
 set -e
 
 # Start up Elasticsearch
-/usr/share/elasticsearch/bin/es-docker &
-# newer ES docker image version uses this entrypoint instead
-# /usr/local/bin/docker-entrypoint.sh eswrapper &
+/usr/local/bin/docker-entrypoint.sh eswrapper &
 
 set +e
 

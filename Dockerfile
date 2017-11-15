@@ -1,4 +1,4 @@
-FROM docker.elastic.co/elasticsearch/elasticsearch:5.6.3
+FROM docker.elastic.co/elasticsearch/elasticsearch:6.0.0
 
 # Run ES in development mode
 ENV discovery.type=single-node
